@@ -1,5 +1,43 @@
-# 💫 About Me:
-Programming Languages: Java ☕, JavaScript 🌐, C++ 💻, Swift (currently learning) 📱<br>Web Development: HTML 📝, CSS 🎨, JavaScript 🔧<br>Database Management: SQL 🗄️, Database design and management 🛠️<br>Focus Areas: Full-stack web development 🌍, iOS application development 📲
+# 💫 About Me
+
+Hello I'm a passionate and versatile full-stack developer with a strong foundation in various programming languages and technologies. Here’s a brief overview of my skills and interests:
+
+## Programming Languages
+- **Java** ☕
+- **JavaScript** 🌐
+- **C++** 💻
+
+## Web Development Skills
+- **HTML** 📝
+- **CSS** 🎨
+- **JavaScript** 🔧
+- **React** 🌈 (Building dynamic and interactive user interfaces)
+
+## Back-end Development
+- **Node.js** 🌱 (Developing server-side applications and RESTful APIs)
+- **Express** 🚀 (Building robust and scalable server-side frameworks)
+
+## Database Management
+- **SQL** 🗄️ (Designing and managing relational databases)
+- **MongoDB** 🌍 (Working with NoSQL databases for flexible and scalable data storage)
+
+## Focus Areas
+- Full-stack web development 🌍
+  - End-to-end development from designing user interfaces to optimizing server-side logic and database queries.
+  - Implementing secure RESTful APIs using Node.js and Express.
+- Object-Oriented Programming (OOP) principles 📚
+  - Applying OOP concepts to build robust, efficient, and maintainable software solutions.
+
+## Additional Skills
+- Database design and management 🛠️
+- Testing and debugging code rigorously to ensure reliability.
+- Managing data efficiently for day-to-day operations and impactful results.
+
+I am always eager to learn and grow, and I thrive on collaborating with others to create innovative and impactful projects. Let's connect and build something great together!
+
+## Social Links
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yash-padwani-334573264)
+
 
 
 ## 🌐 Socials:
