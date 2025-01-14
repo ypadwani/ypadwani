@@ -35,11 +35,6 @@ Hello I'm a passionate and versatile full-stack developer with a strong foundati
 
 I am always eager to learn and grow, and I thrive on collaborating with others to create innovative and impactful projects. Let's connect and build something great together!
 
-## Social Links
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yash-padwani-334573264)
-
-
-
 ## 🌐 Socials:
 <a href="https://www.linkedin.com/in/yash-padwani-334573264" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" alt="LinkedIn Profile">
